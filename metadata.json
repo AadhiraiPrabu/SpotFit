@@ -1,0 +1,6 @@
+{
+  "name": "SpotFit - Spot-Training Workout App",
+  "description": "Target the spot. Train with purpose. Intelligent targeted muscle workouts, interactive anatomical body map, custom workout builder, live guided timer, and progress tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
